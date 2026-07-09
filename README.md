@@ -1,16 +1,145 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Govardhan-2005/Govardhan-2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,20,24,30&text=Govardhan.m&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20|%20Trainer&descAlignY=58"/>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React.js+Developer;Java+Developer;Python+Developer;Building+Useful+Projects;Always+Learning+New+Things"/>
+
+![](https://komarev.com/ghpvc/?username=Govardhan-2005&style=for-the-badge&color=blue)
+
+</div>
+
+---
+
+# 👨🏻‍💻 About Me
+
+<table>
+<tr>
+
+<td width="60%">
+
+### 💻 Full Stack Developer & Trainer
+
+- 👨‍🏫 Full Stack Development Trainer
+- 🚀 Passionate about building scalable web applications
+- ⚛️ Skilled in React.js, JavaScript, HTML, CSS & Bootstrap
+- ☕ Java & 🐍 Python Developer
+- 🍃 MongoDB & 🗄️ MySQL
+- 🤝 Open Source Contributor
+- 🎯 Building useful real-world projects
+
+</td>
+
+<td align="center">
+
+### 🚀 Tech Focus
+
+⚛️ React.js
+
+☕ Java
+
+🐍 Python
+
+🍃 MongoDB
+
+🗄️ MySQL
+
+🌐 Web Development
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# ⚡ Tech Stack
+
+### 🎨 Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react&theme=dark"/>
+</p>
+
+### ⚙️ Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,nodejs,express&theme=dark"/>
+</p>
+
+### 🗄️ Database
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark"/>
+</p>
+
+### 🛠️ Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&theme=dark"/>
+</p>
+
+---
+
+# 🚀 Currently Working On
+
+- 🌐 Full Stack Applications
+- ⚛️ React.js Projects
+- 📚 Teaching Full Stack Development
+- 🚀 REST APIs
+- 💡 Real-world Projects
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Govardhan-2005&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Govardhan-2005&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Govardhan-2005&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Govardhan-2005&theme=algolia&no-frame=true&row=2&column=4"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/Govardhan-2005">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+## ⭐ Code • Learn • Build • Inspire
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient&customColorList=12,20,24,30"/>
+
+</div>
