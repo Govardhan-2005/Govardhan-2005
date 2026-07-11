@@ -5,7 +5,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React.js+Developer;Java+Developer;Python+Developer;Building+Useful+Projects;Always+Learning+New+Things"/>
 
-![](https://komarev.com/ghpvc/?username=Govardhan-2005&style=for-the-badge&color=blue)
 
 </div>
 
