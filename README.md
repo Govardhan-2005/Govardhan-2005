@@ -105,16 +105,27 @@
 
 # 🏆 Achievements
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Govardhan-2005&theme=algolia&no-frame=true&row=2&column=4"/>
-</p>
-
 
 <p align="center">
 <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png">
 </p>
 
 ---
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Govardhan-2005&theme=github-compact&hide_border=true" />
+</p>
+
+---
+
+# 🟩 Contribution Calendar
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/409ba5/Govardhan-2005" alt="Govardhan's GitHub Contribution Chart" />
+</p>
 
 # 🌐 Connect With Me
 
