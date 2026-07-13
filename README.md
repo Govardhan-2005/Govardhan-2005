@@ -119,12 +119,11 @@
 </p>
 ---
 
-# 🟩 Contribution Calendar
+# 🟩 GitHub Contribution Calendar
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/409ba5/Govardhan-2005" alt="Govardhan's GitHub Contribution Chart" />
+  <img src="https://ghchart.rshah.org/Govardhan-2005" alt="Govardhan's GitHub Contribution Calendar" />
 </p>
-
 # 🌐 Connect With Me
 
 <p align="center">
