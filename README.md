@@ -121,11 +121,11 @@
 
 # 🟩 GitHub Contribution Calendar
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/Govardhan-2005" alt="Govardhan's GitHub Contribution Calendar" />
-</p>
-# 🌐 Connect With Me
 
+# 🌐 Connect With Me
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Govardhan-2005/Govardhan-2005/output/github-contribution-grid-snake-dark.svg" />
+</p>
 <p align="center">
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
