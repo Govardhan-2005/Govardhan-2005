@@ -124,9 +124,8 @@
 <p align="center">
   <img src="https://ghchart.rshah.org/409ba5/Govardhan-2005" alt="GitHub Activity Calendar" />
 </p>
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Govardhan-2005&theme=tokyo-night&hide_border=true"/>
-</p>
+--- 
+
 # 🌐 Connect With Me
 
 <p align="center">
