@@ -119,11 +119,13 @@
 ---
 
 
-## 🗓️ GitHub Activity Calendar
+# 📅 GitHub Activity Calendar
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/409ba5/Govardhan-2005" alt="GitHub Activity Calendar" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=govardhan-2005&theme=github-dark&hide_border=true)](https://github.com/govardhan-2005)"/>
+
+</div>
 --- 
 
 # 🌐 Connect With Me
