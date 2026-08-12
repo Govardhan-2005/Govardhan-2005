@@ -54,7 +54,7 @@
 
 # ⚡ Tech Stack
 <br>
-<span style="color:#2563EB">Frontend</span>
+<span color="#2563EB">Frontend</span>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react&theme=dark"/>
 </p>
