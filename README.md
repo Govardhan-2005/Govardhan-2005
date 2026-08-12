@@ -54,13 +54,13 @@
 
 # ⚡ Tech Stack
 
-### 🎨 Frontend
+###  FRONTEND
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react&theme=dark"/>
 </p>
 
-### ⚙️ Backend
+###  BACKEND
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,python,nodejs,express&theme=dark"/>
