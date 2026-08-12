@@ -53,22 +53,23 @@
 ---
 
 # ⚡ Tech Stack
-<br>
-<span color="#2563EB">Frontend</span>
+
+<h3 style="color:#2563EB;">Frontend</h3>
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react&theme=dark"/>
 </p>
 
-###  BACKEND
+<h3 style="color:#16A34A;">Backend</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,nodejs,express&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=java,python,nodejs,express&theme=dark"/>
 </p>
 
-### 🗄️ Database
+<h3 style="color:#F59E0B;">🗄️ Database</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark"/>
 </p>
 
 ### 🛠️ Tools
