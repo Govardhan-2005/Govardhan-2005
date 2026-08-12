@@ -54,7 +54,7 @@
 
 # ⚡ Tech Stack
 
-FRONTEND
+<h3>FRONTEND</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react&theme=dark"/>
